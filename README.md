@@ -3,7 +3,6 @@
 > Paylaşma nedenim yatırım aldığını gördüm, bu demek değildir ki testnet ödüllü.
 > Ne kadar sürecek bilgim yok, teşvikli testnet olacak kesin, `blocktopia-01` için belirsiz.
 > Bazı sunucularım var %80'i boşta ve çalışmıyor, bende böyle değerlendiriyorum, belki sizde de vardır.
-> Topluluk kanallarım: [Duyuru](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat)
 <h1 align="center"> Gereksinimler </h1>
 > Tartışmasız, yüksek uptime ve f/p'dan dolayı tercih ettiğim [sunucu](https://github.com/ruesandora/Hetzner) ve [Hesap oluşturma](https://hetzner.cloud/?ref=gIFAhUnYYjD3)
 * Kullanmış olduğum:
